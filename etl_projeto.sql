@@ -1,5 +1,3 @@
-CREATE TABLE tb_freature_store AS 
-
 WITH tb_transacao AS (
     SELECT IdTransacao,
             idCliente,
